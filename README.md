@@ -1,5 +1,6 @@
 # eCommerce-Product-Recommendation
 This repository contains an eCommerce Product Recommendation system that predicts whether a customer will reorder a product or not. The model is trained using The Instacart Online Grocery Shopping Dataset (2017), which includes customer purchase behavior across multiple orders.
+
 📌 Project Overview
 In online grocery shopping, predicting customer reorders is crucial for:
 1.Enhancing user experience with personalized recommendations
